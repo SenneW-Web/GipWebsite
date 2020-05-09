@@ -558,7 +558,7 @@ section {
 # Details
 --------------------------------------------------------------*/
 .details .content + .content {
-  margin-top: 100px;
+  margin-top: 50px;
 }
 
 .details .content h3 {
@@ -573,7 +573,7 @@ section {
 }
 
 .details .content ul li {
-  padding-bottom: 10px;
+  padding-bottom: 5px;
 }
 
 .details .content ul i {
